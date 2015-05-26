@@ -1,0 +1,18 @@
+Terms
+
+Topology/Hierarchy:  
+Master(s)  
+Nodes (replaced minions)  
+
+Facilities:  
+hyperkube  
+labels  
+kube-proxy  
+replication controller  
+pause (what are all of these?)  
+  
+application  
+service 
+pod  
+container  
+
